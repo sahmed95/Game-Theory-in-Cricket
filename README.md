@@ -1,6 +1,7 @@
 # Game-Theory-in-Cricket
 
-Abstract: 
+                                  Abstract: 
+
 The paper uses the natural setting of cricket to test theoretical predictions in game
 theory. In this setting, the agents play a one-shot-two-person constant sum game. The paper
 assesses whether trained professionals in cricket follow the "mix" of strategies predicted by
@@ -15,4 +16,4 @@ finds that equilibrium play is not followed when the strategy sets in the model 
 more elaborate. The findings of the study are important because it provides evidence of
 equilibrium play even if it is in the simplified setting. Furthermore, this paper can be used to
 provide strategy implications for cricket players.
-2
+
