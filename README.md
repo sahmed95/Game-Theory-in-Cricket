@@ -1,6 +1,6 @@
 # Game-Theory-in-Cricket
 
-                                  Abstract: 
+                                          Abstract: 
 
 The paper uses the natural setting of cricket to test theoretical predictions in game
 theory. In this setting, the agents play a one-shot-two-person constant sum game. The paper
